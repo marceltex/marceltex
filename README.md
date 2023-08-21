@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://github.com/marceltex"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=marceltex&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
+<!-- <a href="https://github.com/marceltex"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=marceltex&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a> -->
 
 <!--
 **marceltex/marceltex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
